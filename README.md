@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 👋 It's us <b>We3Learn</b></h1>
+<h1 align="center">Welcome to <b>We3Learn</b>🙌</h1>
 Free, Online Tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript
 
 <p align="left">
